@@ -1,0 +1,17 @@
+{
+    "name": "Solsphere: Land Element Rocket",
+    "symbol": "SMETA",
+    "description": "Solsphere 3D Land Element To Be Used In Solsphere",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "external_url": "https://Solsphere.io",
+    "attributes": [
+        {"trait_type": "Solsphere Land Element", "value": "Rocket Launchpad"},
+        {"trait_type": "Influence Points", "value": "35"}
+    ],
+    "properties": {
+        "creators": [{"address": "AfReNjJBzyvTAhq4GJHK2D9WYQBR5WV9jTKj1sMkxZ8a", "share": 100}],
+        "files": [{"uri": "0.png", "type": "image/png"}]
+    },
+    "collection": {"name": "Solsphere Elements", "family": "Solsphere"}
+}
